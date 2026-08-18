@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator_info_name="XMLTV Generator" generator_info_url="https://mi.tv">
 <channel id="DisneyChannelLatinAmerica.ar@Center">
-<display-name>DDisneyChannelLatinAmerica.ar@Center</display-name>
+<display-name>DisneyChannelLatinAmerica.ar@Center</display-name>
 </channel>
 <programme start="20260816195600 -0500" stop="20260816202800 -0500" channel="DDisneyChannelLatinAmerica.ar@Center">
 <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
